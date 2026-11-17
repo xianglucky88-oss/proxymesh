@@ -1,1 +1,1 @@
-"""proxymesh baseline (single-responsibility pipeline)."""
+"""proxymesh package (single-responsibility pipeline)."""
